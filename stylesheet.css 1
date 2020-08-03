@@ -1,0 +1,76 @@
+@media (max-width:2000px) {
+
+
+header {
+  width: auto;
+  height: 500px;
+  background-image: url(IMG_0558\ 4.JPG);
+  background-size: cover;
+
+}
+
+.header {
+  font-size: 50px;
+  font-family: "YuGothic" , "Yu Gothic","Meiryo","ヒラギノ角ゴ","sans-serif";
+  position: relative;
+  text-align: center;
+  letter-spacing: 5px;
+  color: #b6fdff;
+  line-height: 1.4;
+  -webkit-box-reflect: below -30px -webkit-linear-gradient(top,rgba(0,0,0,0),rgba(0,0,0,0) 10%,rgba(0,0,0, 0.6));
+  text-shadow: 1px 1px 0 rgba(0,0,0,.5);
+}
+
+main {
+  text-align: center;
+  height: 500px;
+  background-color: rgba(255, 254, 254, 0.842);
+}
+
+
+
+
+h1 {
+  border-top: 2px solid rgba(161, 160, 160, 0.842);
+  border-bottom: 2px solid rgb(170, 163, 163);
+  font-size: 40px;
+  letter-spacing: 10px;
+  color: #b6fdff;
+  text-shadow: 1px 1px 0 rgba(0,0,0,.8);
+  
+}
+
+main h2 {
+  margin-top: 50px;
+  color: #b6fdff;
+  font-size: 30px;
+  text-shadow: 1px 1px 0 rgba(0,0,0,.8);
+}
+
+main p {
+  margin-top: 60px;
+  font-size: 20px;
+}
+
+footer h3 {
+  border-top: 2px solid rgba(161, 160, 160, 0.842);
+  border-bottom: 2px solid rgb(170, 163, 163);
+  text-align: center;
+  font-size: 30px;
+  letter-spacing: 10px;
+  text-shadow: 1px 1px 0 rgba(0,0,0,.8);
+  color: #b6fdff;
+}
+
+footer p {
+ font-size: 20px;
+ text-align: center;
+}
+
+footer div {
+  font-size: 18px;
+  margin-top: 60px;
+  border-bottom: 2px solid rgb(170, 163, 163);
+}
+
+}
